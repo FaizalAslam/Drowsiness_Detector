@@ -1,0 +1,1464 @@
+2026-02-16 23:42:32,657 | INFO | Session started
+2026-02-16 23:42:32,657 | INFO | Log file: logs\session_20260216_234232.log
+2026-02-16 23:44:59,964 | INFO | Session started
+2026-02-16 23:44:59,964 | INFO | Log file: logs\session_20260216_234459.log
+2026-02-16 23:44:59,986 | INFO | Detector initialized
+2026-02-16 23:45:03,409 | INFO | DETECTION | Frame:30 | EAR:0.3955 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:04,452 | INFO | DETECTION | Frame:60 | EAR:0.1366 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:04,643 | WARNING | Drowsy frames: 10
+2026-02-16 23:45:04,739 | INFO | Eyes opened - counter reset
+2026-02-16 23:45:05,406 | INFO | DETECTION | Frame:90 | EAR:0.1118 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:05,444 | WARNING | Drowsy frames: 10
+2026-02-16 23:45:06,110 | WARNING | Drowsy frames: 30
+2026-02-16 23:45:06,110 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1029, Frame=111
+2026-02-16 23:45:06,291 | INFO | Eyes opened - counter reset
+2026-02-16 23:45:06,434 | INFO | DETECTION | Frame:120 | EAR:0.3174 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:07,238 | WARNING | Drowsy frames: 10
+2026-02-16 23:45:07,406 | INFO | DETECTION | Frame:150 | EAR:0.1126 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:07,682 | INFO | Eyes opened - counter reset
+2026-02-16 23:45:08,436 | INFO | DETECTION | Frame:180 | EAR:0.3049 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:09,409 | INFO | DETECTION | Frame:210 | EAR:0.1806 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:09,683 | WARNING | Drowsy frames: 10
+2026-02-16 23:45:10,339 | WARNING | Drowsy frames: 30
+2026-02-16 23:45:10,339 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0915, Frame=238
+2026-02-16 23:45:10,436 | INFO | DETECTION | Frame:240 | EAR:0.0862 | Threshold:0.2100 | Drowsy:True
+2026-02-16 23:45:10,835 | INFO | Eyes opened - counter reset
+2026-02-16 23:45:11,407 | INFO | DETECTION | Frame:270 | EAR:0.3156 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:12,436 | INFO | DETECTION | Frame:300 | EAR:0.2831 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:12,837 | WARNING | Drowsy frames: 10
+2026-02-16 23:45:13,447 | INFO | DETECTION | Frame:330 | EAR:0.1073 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:13,492 | WARNING | Drowsy frames: 30
+2026-02-16 23:45:13,492 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1023, Frame=332
+2026-02-16 23:45:14,436 | INFO | DETECTION | Frame:360 | EAR:0.0968 | Threshold:0.2100 | Drowsy:True
+2026-02-16 23:45:14,484 | WARNING | Drowsy frames: 60
+2026-02-16 23:45:15,379 | INFO | Eyes opened - counter reset
+2026-02-16 23:45:15,428 | INFO | DETECTION | Frame:390 | EAR:0.3519 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:16,438 | INFO | DETECTION | Frame:420 | EAR:0.3771 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:45:16,614 | INFO | ============================================================
+2026-02-16 23:45:16,614 | INFO | SESSION STATISTICS
+2026-02-16 23:45:16,614 | INFO |   duration: 16.628621
+2026-02-16 23:45:16,614 | INFO |   frames: 424
+2026-02-16 23:45:16,614 | INFO |   mean_ear: 0.22452786970061675
+2026-02-16 23:45:16,614 | INFO |   std_ear: 0.10764285444692608
+2026-02-16 23:45:16,614 | INFO |   min_ear: 0.07546769390898085
+2026-02-16 23:45:16,616 | INFO |   max_ear: 0.40122359681455955
+2026-02-16 23:45:16,616 | INFO |   events: 3
+2026-02-16 23:45:16,616 | INFO |   final_threshold: 0.21
+2026-02-16 23:45:16,616 | INFO | ============================================================
+2026-02-16 23:45:16,617 | INFO | Data saved: session_20260216_234516.json
+2026-02-16 23:45:16,617 | INFO | Log file: logs\session_20260216_234459.log
+2026-02-16 23:47:42,594 | INFO | ================================================================================
+2026-02-16 23:47:42,594 | INFO | NEW SESSION STARTED
+2026-02-16 23:47:42,594 | INFO | ================================================================================
+2026-02-16 23:47:42,594 | INFO | Detector initialized
+2026-02-16 23:47:46,012 | INFO | DETECTION | Frame:30 | EAR:0.3482 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:47,514 | INFO | DETECTION | Frame:60 | EAR:0.1958 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:47,792 | WARNING | Drowsy frames: 10
+2026-02-16 23:47:48,190 | INFO | Eyes opened - counter reset
+2026-02-16 23:47:48,504 | INFO | DETECTION | Frame:90 | EAR:0.3032 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:48,904 | WARNING | Drowsy frames: 10
+2026-02-16 23:47:49,513 | INFO | DETECTION | Frame:120 | EAR:0.1271 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:49,599 | WARNING | Drowsy frames: 30
+2026-02-16 23:47:49,599 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1935, Frame=122
+2026-02-16 23:47:50,510 | INFO | DETECTION | Frame:150 | EAR:0.2168 | Threshold:0.2100 | Drowsy:True
+2026-02-16 23:47:50,510 | INFO | Eyes opened - counter reset
+2026-02-16 23:47:51,550 | INFO | DETECTION | Frame:180 | EAR:0.2415 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:51,979 | WARNING | Drowsy frames: 10
+2026-02-16 23:47:52,510 | INFO | DETECTION | Frame:210 | EAR:0.1119 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:52,639 | WARNING | Drowsy frames: 30
+2026-02-16 23:47:52,639 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1292, Frame=213
+2026-02-16 23:47:53,534 | INFO | DETECTION | Frame:240 | EAR:0.1809 | Threshold:0.2100 | Drowsy:True
+2026-02-16 23:47:53,608 | WARNING | Drowsy frames: 60
+2026-02-16 23:47:53,790 | INFO | Eyes opened - counter reset
+2026-02-16 23:47:54,505 | INFO | DETECTION | Frame:270 | EAR:0.3567 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:55,087 | INFO | Eyes opened - counter reset
+2026-02-16 23:47:55,536 | INFO | DETECTION | Frame:300 | EAR:0.1837 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:55,582 | WARNING | Drowsy frames: 10
+2026-02-16 23:47:56,251 | WARNING | Drowsy frames: 30
+2026-02-16 23:47:56,251 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1637, Frame=322
+2026-02-16 23:47:56,504 | INFO | DETECTION | Frame:330 | EAR:0.1516 | Threshold:0.2100 | Drowsy:True
+2026-02-16 23:47:57,242 | WARNING | Drowsy frames: 60
+2026-02-16 23:47:57,391 | INFO | Eyes opened - counter reset
+2026-02-16 23:47:57,533 | INFO | DETECTION | Frame:360 | EAR:0.3385 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:58,506 | INFO | DETECTION | Frame:390 | EAR:0.3370 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:47:59,048 | INFO | Eyes opened - counter reset
+2026-02-16 23:47:59,147 | INFO | Eyes opened - counter reset
+2026-02-16 23:47:59,794 | INFO | ================================================================================
+2026-02-16 23:47:59,794 | INFO | SESSION STATISTICS
+2026-02-16 23:47:59,794 | INFO |   duration: 17.20031
+2026-02-16 23:47:59,794 | INFO |   frames: 410
+2026-02-16 23:47:59,794 | INFO |   mean_ear: 0.2282039869759661
+2026-02-16 23:47:59,794 | INFO |   std_ear: 0.09728017177142878
+2026-02-16 23:47:59,794 | INFO |   min_ear: 0.0912383287055225
+2026-02-16 23:47:59,794 | INFO |   max_ear: 0.409368879837403
+2026-02-16 23:47:59,794 | INFO |   events: 3
+2026-02-16 23:47:59,794 | INFO |   final_threshold: 0.21
+2026-02-16 23:47:59,794 | INFO | ================================================================================
+2026-02-16 23:47:59,795 | INFO | Data saved: session_20260216_234759.json
+2026-02-16 23:49:31,289 | INFO | ================================================================================
+2026-02-16 23:49:31,289 | INFO | NEW SESSION STARTED
+2026-02-16 23:49:31,289 | INFO | ================================================================================
+2026-02-16 23:49:31,298 | INFO | Detector initialized
+2026-02-16 23:49:34,338 | INFO | DETECTION | Frame:30 | EAR:0.3635 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:49:34,834 | WARNING | Drowsy frames: 10
+2026-02-16 23:49:34,993 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2337, Open=0.3510, Closed=0.1564
+2026-02-16 23:49:35,346 | INFO | DETECTION | Frame:60 | EAR:0.2110 | Threshold:0.2337 | Drowsy:False
+2026-02-16 23:49:35,489 | WARNING | Drowsy frames: 30
+2026-02-16 23:49:35,489 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1897, Frame=65
+2026-02-16 23:49:36,338 | INFO | DETECTION | Frame:90 | EAR:0.1212 | Threshold:0.2337 | Drowsy:True
+2026-02-16 23:49:36,483 | WARNING | Drowsy frames: 60
+2026-02-16 23:49:36,655 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2337 -> 0.2349
+2026-02-16 23:49:37,329 | INFO | DETECTION | Frame:120 | EAR:0.2091 | Threshold:0.2349 | Drowsy:True
+2026-02-16 23:49:37,489 | WARNING | Drowsy frames: 90
+2026-02-16 23:49:37,585 | INFO | Eyes opened - counter reset
+2026-02-16 23:49:38,241 | WARNING | Drowsy frames: 10
+2026-02-16 23:49:38,336 | INFO | DETECTION | Frame:150 | EAR:0.1374 | Threshold:0.2349 | Drowsy:False
+2026-02-16 23:49:38,882 | WARNING | Drowsy frames: 30
+2026-02-16 23:49:38,882 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0803, Frame=167
+2026-02-16 23:49:39,329 | INFO | DETECTION | Frame:180 | EAR:0.0828 | Threshold:0.2349 | Drowsy:True
+2026-02-16 23:49:39,890 | WARNING | Drowsy frames: 60
+2026-02-16 23:49:39,986 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2349 -> 0.2267
+2026-02-16 23:49:40,337 | INFO | DETECTION | Frame:210 | EAR:0.1899 | Threshold:0.2267 | Drowsy:True
+2026-02-16 23:49:40,577 | INFO | Eyes opened - counter reset
+2026-02-16 23:49:40,640 | INFO | Eyes opened - counter reset
+2026-02-16 23:49:41,330 | INFO | DETECTION | Frame:240 | EAR:0.2691 | Threshold:0.2267 | Drowsy:False
+2026-02-16 23:49:41,685 | INFO | ================================================================================
+2026-02-16 23:49:41,685 | INFO | SESSION STATISTICS
+2026-02-16 23:49:41,685 | INFO |   duration_seconds: 10.38675
+2026-02-16 23:49:41,685 | INFO |   total_frames: 240
+2026-02-16 23:49:41,685 | INFO |   mean_ear: 0.19353083226729448
+2026-02-16 23:49:41,685 | INFO |   std_ear: 0.0842495839994778
+2026-02-16 23:49:41,685 | INFO |   min_ear: 0.05805112862059973
+2026-02-16 23:49:41,685 | INFO |   max_ear: 0.38483338403891687
+2026-02-16 23:49:41,685 | INFO |   drowsy_events: 0
+2026-02-16 23:49:41,685 | INFO |   final_threshold: 0.22673958129020771
+2026-02-16 23:49:41,685 | INFO | ================================================================================
+2026-02-16 23:49:41,685 | INFO | Session ended
+2026-02-16 23:50:17,609 | INFO | ================================================================================
+2026-02-16 23:50:17,609 | INFO | NEW SESSION STARTED
+2026-02-16 23:50:17,609 | INFO | ================================================================================
+2026-02-16 23:50:17,620 | INFO | Detector initialized
+2026-02-16 23:50:20,631 | WARNING | Drowsy frames: 10
+2026-02-16 23:50:20,677 | INFO | DETECTION | Frame:30 | EAR:0.1443 | Threshold:0.2100 | Drowsy:False
+2026-02-16 23:50:21,295 | WARNING | Drowsy frames: 30
+2026-02-16 23:50:21,295 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1393, Frame=49
+2026-02-16 23:50:21,333 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2132, Open=0.3261, Closed=0.1404
+2026-02-16 23:50:21,687 | INFO | DETECTION | Frame:60 | EAR:0.1119 | Threshold:0.2132 | Drowsy:True
+2026-02-16 23:50:21,974 | INFO | Eyes opened - counter reset
+2026-02-16 23:50:22,533 | WARNING | Drowsy frames: 10
+2026-02-16 23:50:22,678 | INFO | DETECTION | Frame:90 | EAR:0.1886 | Threshold:0.2132 | Drowsy:False
+2026-02-16 23:50:22,725 | INFO | Eyes opened - counter reset
+2026-02-16 23:50:22,993 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2132 -> 0.2138
+2026-02-16 23:50:23,437 | INFO | ================================================================================
+2026-02-16 23:50:23,437 | INFO | SESSION STATISTICS
+2026-02-16 23:50:23,437 | INFO |   duration_seconds: 5.81738
+2026-02-16 23:50:23,437 | INFO |   total_frames: 113
+2026-02-16 23:50:23,437 | INFO |   mean_ear: 0.2153485749885628
+2026-02-16 23:50:23,437 | INFO |   std_ear: 0.09810418034502355
+2026-02-16 23:50:23,437 | INFO |   min_ear: 0.09279806306973959
+2026-02-16 23:50:23,437 | INFO |   max_ear: 0.36052409967915267
+2026-02-16 23:50:23,437 | INFO |   drowsy_events: 0
+2026-02-16 23:50:23,437 | INFO |   final_threshold: 0.21382551192180793
+2026-02-16 23:50:23,437 | INFO | ================================================================================
+2026-02-16 23:50:23,437 | INFO | Session ended
+2026-02-17 00:32:20,886 | INFO | ================================================================================
+2026-02-17 00:32:20,886 | INFO | NEW SESSION STARTED
+2026-02-17 00:32:20,886 | INFO | ================================================================================
+2026-02-17 00:32:20,893 | INFO | Detector initialized
+2026-02-17 00:32:24,917 | INFO | DETECTION | Frame:30 | EAR:0.3758 | Threshold:0.21 | Drowsy:False
+2026-02-17 00:32:25,570 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2296, Open=0.365, Closed=0.1342
+2026-02-17 00:32:25,716 | WARNING | Drowsy frames: 10
+2026-02-17 00:32:25,924 | INFO | DETECTION | Frame:60 | EAR:0.0929 | Threshold:0.2296 | Drowsy:False
+2026-02-17 00:32:26,369 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1048, Frame=74
+2026-02-17 00:32:26,914 | INFO | DETECTION | Frame:90 | EAR:0.0829 | Threshold:0.2296 | Drowsy:True
+2026-02-17 00:32:27,231 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2296 -> 0.2297
+2026-02-17 00:32:27,923 | INFO | DETECTION | Frame:120 | EAR:0.0811 | Threshold:0.2297 | Drowsy:True
+2026-02-17 00:32:28,068 | INFO | Eyes opened - counter reset
+2026-02-17 00:32:28,068 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-17 00:32:28,913 | INFO | DETECTION | Frame:150 | EAR:0.2933 | Threshold:0.2297 | Drowsy:False
+2026-02-17 00:32:29,267 | WARNING | Drowsy frames: 10
+2026-02-17 00:32:29,924 | INFO | DETECTION | Frame:180 | EAR:0.0805 | Threshold:0.2297 | Drowsy:False
+2026-02-17 00:32:29,935 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0803, Frame=181
+2026-02-17 00:32:30,563 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2297 -> 0.2268
+2026-02-17 00:32:30,916 | INFO | DETECTION | Frame:210 | EAR:0.1086 | Threshold:0.2268 | Drowsy:True
+2026-02-17 00:32:31,924 | INFO | Eyes opened - counter reset
+2026-02-17 00:32:31,925 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-17 00:32:31,925 | INFO | DETECTION | Frame:240 | EAR:0.2275 | Threshold:0.2268 | Drowsy:False
+2026-02-17 00:32:31,970 | INFO | Eyes opened - counter reset
+2026-02-17 00:32:32,513 | WARNING | Drowsy frames: 10
+2026-02-17 00:32:32,914 | INFO | DETECTION | Frame:270 | EAR:0.0964 | Threshold:0.2268 | Drowsy:False
+2026-02-17 00:32:33,169 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0977, Frame=277
+2026-02-17 00:32:33,906 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2268 -> 0.2177
+2026-02-17 00:32:33,906 | INFO | DETECTION | Frame:300 | EAR:0.0918 | Threshold:0.2177 | Drowsy:True
+2026-02-17 00:32:34,417 | INFO | Eyes opened - counter reset
+2026-02-17 00:32:34,417 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-17 00:32:34,916 | INFO | DETECTION | Frame:330 | EAR:0.3808 | Threshold:0.2177 | Drowsy:False
+2026-02-17 00:32:35,519 | INFO | ================================================================================
+2026-02-17 00:32:35,519 | INFO | SESSION STATISTICS
+2026-02-17 00:32:35,519 | INFO |   duration_seconds: 14.63
+2026-02-17 00:32:35,519 | INFO |   total_frames: 346
+2026-02-17 00:32:35,519 | INFO |   mean_ear: 0.186
+2026-02-17 00:32:35,519 | INFO |   std_ear: 0.1247
+2026-02-17 00:32:35,519 | INFO |   min_ear: 0.0812
+2026-02-17 00:32:35,519 | INFO |   max_ear: 0.3902
+2026-02-17 00:32:35,519 | INFO | ================================================================================
+2026-02-17 01:05:59,822 | INFO | ================================================================================
+2026-02-17 01:05:59,822 | INFO | NEW SESSION STARTED
+2026-02-17 01:05:59,822 | INFO | ================================================================================
+2026-02-17 01:05:59,854 | INFO | Detector initialized
+2026-02-17 01:06:04,081 | INFO | DETECTION | Frame:30 | EAR:0.136 | Threshold:0.21 | Drowsy:False
+2026-02-17 01:06:04,335 | WARNING | Drowsy frames: 10
+2026-02-17 01:06:04,481 | INFO | Eyes opened - counter reset
+2026-02-17 01:06:04,734 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2057, Open=0.3485, Closed=0.1029
+2026-02-17 01:06:05,073 | INFO | DETECTION | Frame:60 | EAR:0.1108 | Threshold:0.2057 | Drowsy:False
+2026-02-17 01:06:05,280 | WARNING | Drowsy frames: 10
+2026-02-17 01:06:05,920 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0819, Frame=86
+2026-02-17 01:06:06,079 | INFO | DETECTION | Frame:90 | EAR:0.0951 | Threshold:0.2057 | Drowsy:True
+2026-02-17 01:06:06,398 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2057 -> 0.2077
+2026-02-17 01:06:07,073 | INFO | DETECTION | Frame:120 | EAR:0.1197 | Threshold:0.2077 | Drowsy:True
+2026-02-17 01:06:07,183 | INFO | Eyes opened - counter reset
+2026-02-17 01:06:07,183 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-17 01:06:08,080 | INFO | DETECTION | Frame:150 | EAR:0.3851 | Threshold:0.2077 | Drowsy:False
+2026-02-17 01:06:09,072 | INFO | DETECTION | Frame:180 | EAR:0.3745 | Threshold:0.2077 | Drowsy:False
+2026-02-17 01:06:09,728 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2077 -> 0.2108
+2026-02-17 01:06:09,882 | WARNING | Drowsy frames: 10
+2026-02-17 01:06:09,920 | INFO | Eyes opened - counter reset
+2026-02-17 01:06:10,081 | INFO | DETECTION | Frame:210 | EAR:0.3237 | Threshold:0.2108 | Drowsy:False
+2026-02-17 01:06:11,074 | INFO | DETECTION | Frame:240 | EAR:0.4185 | Threshold:0.2108 | Drowsy:False
+2026-02-17 01:06:11,341 | INFO | ================================================================================
+2026-02-17 01:06:11,341 | INFO | SESSION STATISTICS
+2026-02-17 01:06:11,341 | INFO |   duration_seconds: 11.49
+2026-02-17 01:06:11,341 | INFO |   total_frames: 247
+2026-02-17 01:06:11,341 | INFO |   mean_ear: 0.3505
+2026-02-17 01:06:11,341 | INFO |   std_ear: 0.0757
+2026-02-17 01:06:11,341 | INFO |   min_ear: 0.1067
+2026-02-17 01:06:11,341 | INFO |   max_ear: 0.4391
+2026-02-17 01:06:11,341 | INFO | ================================================================================
+2026-02-27 16:28:34,170 | INFO | ================================================================================
+2026-02-27 16:28:34,170 | INFO | NEW SESSION STARTED
+2026-02-27 16:28:34,170 | INFO | ================================================================================
+2026-02-27 16:28:55,567 | INFO | ================================================================================
+2026-02-27 16:28:55,567 | INFO | NEW SESSION STARTED
+2026-02-27 16:28:55,567 | INFO | ================================================================================
+2026-02-27 16:29:56,158 | INFO | ================================================================================
+2026-02-27 16:29:56,158 | INFO | NEW SESSION STARTED
+2026-02-27 16:29:56,158 | INFO | ================================================================================
+2026-02-27 16:32:29,229 | INFO | ================================================================================
+2026-02-27 16:32:29,229 | INFO | NEW SESSION STARTED
+2026-02-27 16:32:29,229 | INFO | ================================================================================
+2026-02-27 16:32:29,259 | INFO | Detector initialized
+2026-02-27 16:33:20,119 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:20,456 | INFO | DETECTION | Frame:30 | EAR:0.3718 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:33:21,127 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2388, Open=0.3724, Closed=0.1452
+2026-02-27 16:33:21,464 | INFO | DETECTION | Frame:60 | EAR:0.3046 | Threshold:0.2388 | Drowsy:False
+2026-02-27 16:33:21,782 | WARNING | Drowsy frames: 10
+2026-02-27 16:33:22,456 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1065, Frame=90
+2026-02-27 16:33:22,456 | INFO | DETECTION | Frame:90 | EAR:0.1065 | Threshold:0.2388 | Drowsy:True
+2026-02-27 16:33:22,790 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2388 -> 0.2394
+2026-02-27 16:33:23,095 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:23,095 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 16:33:23,462 | INFO | DETECTION | Frame:120 | EAR:0.3476 | Threshold:0.2394 | Drowsy:False
+2026-02-27 16:33:24,457 | INFO | DETECTION | Frame:150 | EAR:0.0906 | Threshold:0.2394 | Drowsy:False
+2026-02-27 16:33:24,695 | WARNING | Drowsy frames: 10
+2026-02-27 16:33:25,350 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0905, Frame=177
+2026-02-27 16:33:25,479 | INFO | DETECTION | Frame:180 | EAR:0.0829 | Threshold:0.2394 | Drowsy:True
+2026-02-27 16:33:26,119 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2394 -> 0.237
+2026-02-27 16:33:26,455 | INFO | DETECTION | Frame:210 | EAR:0.0721 | Threshold:0.237 | Drowsy:True
+2026-02-27 16:33:27,478 | INFO | DETECTION | Frame:240 | EAR:0.1097 | Threshold:0.237 | Drowsy:True
+2026-02-27 16:33:27,689 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:27,689 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 16:33:28,420 | WARNING | Drowsy frames: 10
+2026-02-27 16:33:28,440 | INFO | DETECTION | Frame:270 | EAR:0.0901 | Threshold:0.237 | Drowsy:False
+2026-02-27 16:33:28,919 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:29,352 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:29,481 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.237 -> 0.2345
+2026-02-27 16:33:29,481 | INFO | DETECTION | Frame:300 | EAR:0.2378 | Threshold:0.2345 | Drowsy:False
+2026-02-27 16:33:29,543 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:29,976 | WARNING | Drowsy frames: 10
+2026-02-27 16:33:30,441 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:30,470 | INFO | DETECTION | Frame:330 | EAR:0.397 | Threshold:0.2345 | Drowsy:False
+2026-02-27 16:33:31,242 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:31,479 | INFO | DETECTION | Frame:360 | EAR:0.3671 | Threshold:0.2345 | Drowsy:False
+2026-02-27 16:33:32,471 | INFO | DETECTION | Frame:390 | EAR:0.3782 | Threshold:0.2345 | Drowsy:False
+2026-02-27 16:33:32,870 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2345 -> 0.24
+2026-02-27 16:33:33,463 | INFO | DETECTION | Frame:420 | EAR:0.3947 | Threshold:0.24 | Drowsy:False
+2026-02-27 16:33:34,374 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:34,472 | INFO | DETECTION | Frame:450 | EAR:0.3494 | Threshold:0.24 | Drowsy:False
+2026-02-27 16:33:35,462 | INFO | DETECTION | Frame:480 | EAR:0.3797 | Threshold:0.24 | Drowsy:False
+2026-02-27 16:33:35,960 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:36,199 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.24 -> 0.2533
+2026-02-27 16:33:36,470 | INFO | DETECTION | Frame:510 | EAR:0.4151 | Threshold:0.2533 | Drowsy:False
+2026-02-27 16:33:36,695 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:37,463 | INFO | DETECTION | Frame:540 | EAR:0.4662 | Threshold:0.2533 | Drowsy:False
+2026-02-27 16:33:38,104 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:38,457 | INFO | DETECTION | Frame:570 | EAR:0.377 | Threshold:0.2533 | Drowsy:False
+2026-02-27 16:33:39,463 | INFO | DETECTION | Frame:600 | EAR:0.389 | Threshold:0.2533 | Drowsy:False
+2026-02-27 16:33:39,529 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2533 -> 0.2677
+2026-02-27 16:33:40,456 | INFO | DETECTION | Frame:630 | EAR:0.4348 | Threshold:0.2677 | Drowsy:False
+2026-02-27 16:33:40,694 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:41,257 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:41,463 | INFO | DETECTION | Frame:660 | EAR:0.365 | Threshold:0.2677 | Drowsy:False
+2026-02-27 16:33:42,455 | INFO | DETECTION | Frame:690 | EAR:0.349 | Threshold:0.2677 | Drowsy:False
+2026-02-27 16:33:42,854 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2677 -> 0.2781
+2026-02-27 16:33:43,447 | INFO | DETECTION | Frame:720 | EAR:0.3442 | Threshold:0.2781 | Drowsy:False
+2026-02-27 16:33:44,423 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:44,456 | INFO | DETECTION | Frame:750 | EAR:0.3344 | Threshold:0.2781 | Drowsy:False
+2026-02-27 16:33:45,481 | INFO | DETECTION | Frame:780 | EAR:0.3687 | Threshold:0.2781 | Drowsy:False
+2026-02-27 16:33:46,217 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2781 -> 0.2826
+2026-02-27 16:33:46,322 | WARNING | Drowsy frames: 10
+2026-02-27 16:33:46,456 | INFO | DETECTION | Frame:810 | EAR:0.0993 | Threshold:0.2826 | Drowsy:False
+2026-02-27 16:33:46,777 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:47,480 | INFO | DETECTION | Frame:840 | EAR:0.1073 | Threshold:0.2826 | Drowsy:False
+2026-02-27 16:33:47,689 | WARNING | Drowsy frames: 10
+2026-02-27 16:33:48,376 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1055, Frame=867
+2026-02-27 16:33:48,440 | INFO | DETECTION | Frame:870 | EAR:0.0958 | Threshold:0.2826 | Drowsy:True
+2026-02-27 16:33:48,873 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:48,873 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 16:33:49,479 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:49,479 | INFO | DETECTION | Frame:900 | EAR:0.283 | Threshold:0.2826 | Drowsy:False
+2026-02-27 16:33:49,543 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2826 -> 0.2779
+2026-02-27 16:33:50,342 | INFO | Eyes opened - counter reset
+2026-02-27 16:33:51,053 | INFO | ================================================================================
+2026-02-27 16:33:51,053 | INFO | SESSION STATISTICS
+2026-02-27 16:33:51,053 | INFO |   duration_seconds: 81.79
+2026-02-27 16:33:51,053 | INFO |   total_frames: 928
+2026-02-27 16:33:51,053 | INFO |   mean_ear: 0.2219
+2026-02-27 16:33:51,053 | INFO |   std_ear: 0.1171
+2026-02-27 16:33:51,053 | INFO |   min_ear: 0.0871
+2026-02-27 16:33:51,053 | INFO |   max_ear: 0.4022
+2026-02-27 16:33:51,053 | INFO | ================================================================================
+2026-02-27 16:51:04,178 | INFO | ================================================================================
+2026-02-27 16:51:04,178 | INFO | NEW SESSION STARTED
+2026-02-27 16:51:04,178 | INFO | ================================================================================
+2026-02-27 16:51:04,194 | INFO | Detector initialized
+2026-02-27 16:53:10,281 | INFO | DETECTION | Frame:30 | EAR:0.3859 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:53:11,273 | INFO | DETECTION | Frame:60 | EAR:0.0996 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:53:11,559 | WARNING | Drowsy frames: 10
+2026-02-27 16:53:12,294 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0985, Frame=89
+2026-02-27 16:53:12,353 | INFO | DETECTION | Frame:90 | EAR:0.101 | Threshold:0.21 | Drowsy:True
+2026-02-27 16:53:13,274 | INFO | DETECTION | Frame:120 | EAR:0.0963 | Threshold:0.21 | Drowsy:True
+2026-02-27 16:53:14,280 | INFO | DETECTION | Frame:150 | EAR:0.0977 | Threshold:0.21 | Drowsy:True
+2026-02-27 16:53:15,273 | INFO | DETECTION | Frame:180 | EAR:0.1212 | Threshold:0.21 | Drowsy:True
+2026-02-27 16:53:15,528 | INFO | Eyes opened - counter reset
+2026-02-27 16:53:15,528 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 16:53:16,280 | INFO | DETECTION | Frame:210 | EAR:0.1688 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:53:16,570 | WARNING | Drowsy frames: 10
+2026-02-27 16:53:17,226 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1, Frame=239
+2026-02-27 16:53:17,271 | INFO | DETECTION | Frame:240 | EAR:0.0771 | Threshold:0.21 | Drowsy:True
+2026-02-27 16:53:18,104 | INFO | Eyes opened - counter reset
+2026-02-27 16:53:18,104 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 16:53:18,280 | INFO | DETECTION | Frame:270 | EAR:0.3073 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:53:18,776 | WARNING | Drowsy frames: 10
+2026-02-27 16:53:19,274 | INFO | DETECTION | Frame:300 | EAR:0.1017 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:53:19,433 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0781, Frame=305
+2026-02-27 16:53:20,154 | INFO | Eyes opened - counter reset
+2026-02-27 16:53:20,154 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 16:53:20,267 | INFO | DETECTION | Frame:330 | EAR:0.2758 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:53:20,600 | INFO | Eyes opened - counter reset
+2026-02-27 16:53:21,272 | INFO | DETECTION | Frame:360 | EAR:0.4062 | Threshold:0.21 | Drowsy:False
+2026-02-27 16:53:21,500 | INFO | ================================================================================
+2026-02-27 16:53:21,500 | INFO | SESSION STATISTICS
+2026-02-27 16:53:21,500 | INFO |   duration_seconds: 137.31
+2026-02-27 16:53:21,501 | INFO |   total_frames: 365
+2026-02-27 16:53:21,501 | INFO |   mean_ear: 0.2192
+2026-02-27 16:53:21,501 | INFO |   std_ear: 0.1301
+2026-02-27 16:53:21,501 | INFO |   min_ear: 0.0751
+2026-02-27 16:53:21,501 | INFO |   max_ear: 0.4295
+2026-02-27 16:53:21,501 | INFO | ================================================================================
+2026-02-27 17:10:15,181 | INFO | ================================================================================
+2026-02-27 17:10:15,181 | INFO | NEW SESSION STARTED
+2026-02-27 17:10:15,181 | INFO | ================================================================================
+2026-02-27 17:10:15,181 | INFO | Detector initialized
+2026-02-27 17:11:01,779 | INFO | ================================================================================
+2026-02-27 17:11:01,780 | INFO | SESSION STATISTICS
+2026-02-27 17:11:01,780 | INFO |   duration_seconds: 46.6
+2026-02-27 17:11:01,780 | INFO |   total_frames: 1
+2026-02-27 17:11:01,780 | INFO |   mean_ear: 0.3454
+2026-02-27 17:11:01,780 | INFO |   std_ear: 0.0
+2026-02-27 17:11:01,780 | INFO |   min_ear: 0.3454
+2026-02-27 17:11:01,780 | INFO |   max_ear: 0.3454
+2026-02-27 17:11:01,780 | INFO | ================================================================================
+2026-02-27 17:11:13,302 | INFO | ================================================================================
+2026-02-27 17:11:13,302 | INFO | NEW SESSION STARTED
+2026-02-27 17:11:13,302 | INFO | ================================================================================
+2026-02-27 17:11:13,302 | INFO | Detector initialized
+2026-02-27 17:12:00,274 | INFO | Eyes opened - counter reset
+2026-02-27 17:12:00,431 | INFO | DETECTION | Frame:30 | EAR:0.3696 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:12:00,737 | INFO | Eyes opened - counter reset
+2026-02-27 17:12:01,441 | INFO | DETECTION | Frame:60 | EAR:0.1267 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:12:01,568 | WARNING | Drowsy frames: 10
+2026-02-27 17:12:02,203 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1132, Frame=83
+2026-02-27 17:12:02,431 | INFO | DETECTION | Frame:90 | EAR:0.1514 | Threshold:0.21 | Drowsy:True
+2026-02-27 17:12:02,607 | INFO | Eyes opened - counter reset
+2026-02-27 17:12:02,607 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 17:12:03,439 | INFO | DETECTION | Frame:120 | EAR:0.4182 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:12:03,952 | INFO | ================================================================================
+2026-02-27 17:12:03,953 | INFO | SESSION STATISTICS
+2026-02-27 17:12:03,953 | INFO |   duration_seconds: 50.65
+2026-02-27 17:12:03,953 | INFO |   total_frames: 133
+2026-02-27 17:12:03,953 | INFO |   mean_ear: 0.2673
+2026-02-27 17:12:03,953 | INFO |   std_ear: 0.1213
+2026-02-27 17:12:03,953 | INFO |   min_ear: 0.1103
+2026-02-27 17:12:03,953 | INFO |   max_ear: 0.4182
+2026-02-27 17:12:03,953 | INFO | ================================================================================
+2026-02-27 17:19:00,414 | INFO | ================================================================================
+2026-02-27 17:19:00,414 | INFO | NEW SESSION STARTED
+2026-02-27 17:19:00,414 | INFO | ================================================================================
+2026-02-27 17:19:00,414 | INFO | Detector initialized
+2026-02-27 17:19:46,324 | INFO | DETECTION | Frame:30 | EAR:0.4103 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:47,331 | INFO | DETECTION | Frame:60 | EAR:0.4296 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:48,323 | INFO | DETECTION | Frame:90 | EAR:0.422 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:49,331 | INFO | DETECTION | Frame:120 | EAR:0.4087 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:50,323 | INFO | DETECTION | Frame:150 | EAR:0.4049 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:51,333 | INFO | DETECTION | Frame:180 | EAR:0.5582 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:52,324 | INFO | DETECTION | Frame:210 | EAR:0.3611 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:53,332 | INFO | DETECTION | Frame:240 | EAR:0.404 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:53,523 | INFO | Eyes opened - counter reset
+2026-02-27 17:19:54,086 | INFO | Eyes opened - counter reset
+2026-02-27 17:19:54,324 | INFO | DETECTION | Frame:270 | EAR:0.4043 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:55,337 | INFO | DETECTION | Frame:300 | EAR:0.3676 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:56,325 | INFO | DETECTION | Frame:330 | EAR:0.3796 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:57,331 | INFO | DETECTION | Frame:360 | EAR:0.424 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:58,324 | INFO | DETECTION | Frame:390 | EAR:0.4185 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:19:59,332 | INFO | DETECTION | Frame:420 | EAR:0.3668 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:00,325 | INFO | DETECTION | Frame:450 | EAR:0.3896 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:01,331 | INFO | DETECTION | Frame:480 | EAR:0.4001 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:02,323 | INFO | DETECTION | Frame:510 | EAR:0.4364 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:03,331 | INFO | DETECTION | Frame:540 | EAR:0.2742 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:04,324 | INFO | DETECTION | Frame:570 | EAR:0.4017 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:05,123 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:05,333 | INFO | DETECTION | Frame:600 | EAR:0.3686 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:06,324 | INFO | DETECTION | Frame:630 | EAR:0.3991 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:06,822 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:07,331 | INFO | DETECTION | Frame:660 | EAR:0.2275 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:08,133 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:08,325 | INFO | DETECTION | Frame:690 | EAR:0.2687 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:09,332 | INFO | DETECTION | Frame:720 | EAR:0.3987 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:10,326 | INFO | DETECTION | Frame:750 | EAR:0.3804 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:11,332 | INFO | DETECTION | Frame:780 | EAR:0.3855 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:12,230 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:12,386 | INFO | DETECTION | Frame:810 | EAR:0.3738 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:13,428 | INFO | DETECTION | Frame:840 | EAR:0.385 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:14,387 | INFO | DETECTION | Frame:870 | EAR:0.3805 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:15,428 | INFO | DETECTION | Frame:900 | EAR:0.3919 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:16,383 | INFO | DETECTION | Frame:930 | EAR:0.3975 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:17,427 | INFO | DETECTION | Frame:960 | EAR:0.38 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:18,384 | INFO | DETECTION | Frame:990 | EAR:0.3639 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:19,430 | INFO | DETECTION | Frame:1020 | EAR:0.3868 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:20,084 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:20,181 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:20,277 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:20,386 | INFO | DETECTION | Frame:1050 | EAR:0.2648 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:21,427 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:21,427 | INFO | DETECTION | Frame:1080 | EAR:0.2901 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:22,384 | INFO | DETECTION | Frame:1110 | EAR:0.414 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:23,430 | INFO | DETECTION | Frame:1140 | EAR:0.4066 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:24,383 | INFO | DETECTION | Frame:1170 | EAR:0.3956 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:25,427 | INFO | DETECTION | Frame:1200 | EAR:0.3781 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:26,384 | INFO | DETECTION | Frame:1230 | EAR:0.3767 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:27,429 | INFO | DETECTION | Frame:1260 | EAR:0.3749 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:28,388 | INFO | DETECTION | Frame:1290 | EAR:0.1898 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:28,424 | INFO | Eyes opened - counter reset
+2026-02-27 17:20:29,427 | INFO | DETECTION | Frame:1320 | EAR:0.3778 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:30,420 | INFO | DETECTION | Frame:1350 | EAR:0.373 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:31,429 | INFO | DETECTION | Frame:1380 | EAR:0.38 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:32,421 | INFO | DETECTION | Frame:1410 | EAR:0.3848 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:33,429 | INFO | DETECTION | Frame:1440 | EAR:0.3775 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:34,421 | INFO | DETECTION | Frame:1470 | EAR:0.3952 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:35,430 | INFO | DETECTION | Frame:1500 | EAR:0.3869 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:36,453 | INFO | DETECTION | Frame:1530 | EAR:0.3978 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:37,523 | INFO | DETECTION | Frame:1560 | EAR:0.3956 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:38,532 | INFO | DETECTION | Frame:1590 | EAR:0.4055 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:39,525 | INFO | DETECTION | Frame:1620 | EAR:0.4164 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:40,533 | INFO | DETECTION | Frame:1650 | EAR:0.3945 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:41,523 | INFO | DETECTION | Frame:1680 | EAR:0.3708 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:42,533 | INFO | DETECTION | Frame:1710 | EAR:0.4085 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:43,523 | INFO | DETECTION | Frame:1740 | EAR:0.4217 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:44,533 | INFO | DETECTION | Frame:1770 | EAR:0.3974 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:45,525 | INFO | DETECTION | Frame:1800 | EAR:0.3901 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:46,531 | INFO | DETECTION | Frame:1830 | EAR:0.4114 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:47,524 | INFO | DETECTION | Frame:1860 | EAR:0.4156 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:48,532 | INFO | DETECTION | Frame:1890 | EAR:0.4188 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:49,524 | INFO | DETECTION | Frame:1920 | EAR:0.4125 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:50,533 | INFO | DETECTION | Frame:1950 | EAR:0.4083 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:51,525 | INFO | DETECTION | Frame:1980 | EAR:0.4233 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:52,533 | INFO | DETECTION | Frame:2010 | EAR:0.4039 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:53,524 | INFO | DETECTION | Frame:2040 | EAR:0.3856 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:54,532 | INFO | DETECTION | Frame:2070 | EAR:0.4082 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:55,526 | INFO | DETECTION | Frame:2100 | EAR:0.3813 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:56,577 | INFO | DETECTION | Frame:2130 | EAR:0.3899 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:57,525 | INFO | DETECTION | Frame:2160 | EAR:0.3118 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:58,532 | INFO | DETECTION | Frame:2190 | EAR:0.3767 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:20:59,525 | INFO | DETECTION | Frame:2220 | EAR:0.4077 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:00,533 | INFO | DETECTION | Frame:2250 | EAR:0.3865 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:01,523 | INFO | DETECTION | Frame:2280 | EAR:0.3803 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:02,533 | INFO | DETECTION | Frame:2310 | EAR:0.3912 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:03,527 | INFO | DETECTION | Frame:2340 | EAR:0.3956 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:04,532 | INFO | DETECTION | Frame:2370 | EAR:0.3966 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:05,333 | INFO | Eyes opened - counter reset
+2026-02-27 17:21:05,379 | INFO | Eyes opened - counter reset
+2026-02-27 17:21:05,526 | INFO | DETECTION | Frame:2400 | EAR:0.2826 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:06,531 | INFO | DETECTION | Frame:2430 | EAR:0.4291 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:07,525 | INFO | DETECTION | Frame:2460 | EAR:0.4409 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:08,532 | INFO | DETECTION | Frame:2490 | EAR:0.4537 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:09,620 | INFO | DETECTION | Frame:2520 | EAR:0.4039 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:10,630 | INFO | DETECTION | Frame:2550 | EAR:0.3821 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:11,621 | INFO | DETECTION | Frame:2580 | EAR:0.3774 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:12,629 | INFO | DETECTION | Frame:2610 | EAR:0.4012 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:13,618 | INFO | DETECTION | Frame:2640 | EAR:0.3693 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:14,629 | INFO | Eyes opened - counter reset
+2026-02-27 17:21:14,629 | INFO | DETECTION | Frame:2670 | EAR:0.2467 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:15,620 | INFO | DETECTION | Frame:2700 | EAR:0.3464 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:16,628 | INFO | DETECTION | Frame:2730 | EAR:0.404 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:17,622 | INFO | DETECTION | Frame:2760 | EAR:0.4085 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:18,627 | INFO | DETECTION | Frame:2790 | EAR:0.4106 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:19,621 | INFO | DETECTION | Frame:2820 | EAR:0.4056 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:20,628 | INFO | DETECTION | Frame:2850 | EAR:0.4081 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:21,622 | INFO | DETECTION | Frame:2880 | EAR:0.42 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:22,627 | INFO | DETECTION | Frame:2910 | EAR:0.4174 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:23,621 | INFO | DETECTION | Frame:2940 | EAR:0.416 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:24,628 | INFO | DETECTION | Frame:2970 | EAR:0.4003 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:25,621 | INFO | DETECTION | Frame:3000 | EAR:0.4138 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:26,629 | INFO | DETECTION | Frame:3030 | EAR:0.4125 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:27,620 | INFO | DETECTION | Frame:3060 | EAR:0.3167 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:28,627 | INFO | DETECTION | Frame:3090 | EAR:0.4009 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:29,620 | INFO | DETECTION | Frame:3120 | EAR:0.414 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:30,627 | INFO | DETECTION | Frame:3150 | EAR:0.4063 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:31,622 | INFO | DETECTION | Frame:3180 | EAR:0.3843 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:32,628 | INFO | DETECTION | Frame:3210 | EAR:0.4274 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:33,621 | INFO | DETECTION | Frame:3240 | EAR:0.4007 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:34,629 | INFO | DETECTION | Frame:3270 | EAR:0.3463 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:35,619 | INFO | DETECTION | Frame:3300 | EAR:0.3994 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:21:35,790 | INFO | ================================================================================
+2026-02-27 17:21:35,790 | INFO | SESSION STATISTICS
+2026-02-27 17:21:35,790 | INFO |   duration_seconds: 155.38
+2026-02-27 17:21:35,790 | INFO |   total_frames: 3305
+2026-02-27 17:21:35,790 | INFO |   mean_ear: 0.3904
+2026-02-27 17:21:35,790 | INFO |   std_ear: 0.0254
+2026-02-27 17:21:35,790 | INFO |   min_ear: 0.3415
+2026-02-27 17:21:35,790 | INFO |   max_ear: 0.4405
+2026-02-27 17:21:35,790 | INFO | ================================================================================
+2026-02-27 17:47:45,113 | INFO | ================================================================================
+2026-02-27 17:47:45,113 | INFO | Session Started
+2026-02-27 17:47:45,113 | INFO | ================================================================================
+2026-02-27 17:47:45,128 | INFO | Detector initialized
+2026-02-27 17:50:06,034 | INFO | DETECTION | Frame:30 | EAR:0.3967 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:07,026 | INFO | DETECTION | Frame:60 | EAR:0.0754 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:07,236 | WARNING | Drowsy frames: 10
+2026-02-27 17:50:07,886 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0754, Frame=86
+2026-02-27 17:50:08,033 | INFO | DETECTION | Frame:90 | EAR:0.0747 | Threshold:0.21 | Drowsy:True
+2026-02-27 17:50:09,030 | INFO | DETECTION | Frame:120 | EAR:0.083 | Threshold:0.21 | Drowsy:True
+2026-02-27 17:50:10,033 | INFO | DETECTION | Frame:150 | EAR:0.0925 | Threshold:0.21 | Drowsy:True
+2026-02-27 17:50:11,025 | INFO | DETECTION | Frame:180 | EAR:0.0984 | Threshold:0.21 | Drowsy:True
+2026-02-27 17:50:11,477 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:11,477 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 17:50:12,035 | INFO | DETECTION | Frame:210 | EAR:0.3671 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:12,978 | WARNING | Drowsy frames: 10
+2026-02-27 17:50:13,026 | INFO | DETECTION | Frame:240 | EAR:0.0745 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:13,634 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0845, Frame=258
+2026-02-27 17:50:14,033 | INFO | DETECTION | Frame:270 | EAR:0.0785 | Threshold:0.21 | Drowsy:True
+2026-02-27 17:50:14,435 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:14,435 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 17:50:15,026 | INFO | DETECTION | Frame:300 | EAR:0.0889 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:15,234 | WARNING | Drowsy frames: 10
+2026-02-27 17:50:15,885 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0963, Frame=326
+2026-02-27 17:50:16,035 | INFO | DETECTION | Frame:330 | EAR:0.1002 | Threshold:0.21 | Drowsy:True
+2026-02-27 17:50:16,324 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:16,324 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 17:50:17,025 | INFO | DETECTION | Frame:360 | EAR:0.355 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:17,485 | WARNING | Drowsy frames: 10
+2026-02-27 17:50:18,033 | INFO | DETECTION | Frame:390 | EAR:0.1274 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:18,178 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1548, Frame=394
+2026-02-27 17:50:18,835 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:18,835 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-27 17:50:18,930 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:19,025 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:19,025 | INFO | DETECTION | Frame:420 | EAR:0.228 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:19,131 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:19,524 | INFO | Eyes opened - counter reset
+2026-02-27 17:50:20,034 | INFO | DETECTION | Frame:450 | EAR:0.3998 | Threshold:0.21 | Drowsy:False
+2026-02-27 17:50:20,681 | INFO | ================================================================================
+2026-02-27 17:50:20,681 | INFO | SESSION DETAILS
+2026-02-27 17:50:20,681 | INFO |   duration_seconds: 155.55
+2026-02-27 17:50:20,681 | INFO |   total_frames: 466
+2026-02-27 17:50:20,681 | INFO |   mean_ear: 0.22
+2026-02-27 17:50:20,681 | INFO |   std_ear: 0.1171
+2026-02-27 17:50:20,681 | INFO |   min_ear: 0.0582
+2026-02-27 17:50:20,681 | INFO |   max_ear: 0.4004
+2026-02-27 17:50:20,681 | INFO | ================================================================================
+2026-02-27 17:51:12,935 | INFO | ================================================================================
+2026-02-27 17:51:12,935 | INFO | Session Started
+2026-02-27 17:51:12,935 | INFO | ================================================================================
+2026-02-27 17:51:12,954 | INFO | Detector initialized
+2026-02-27 17:53:11,430 | INFO | ================================================================================
+2026-02-27 17:53:11,430 | INFO | SESSION DETAILS
+2026-02-27 17:53:11,430 | INFO |   duration_seconds: 118.48
+2026-02-27 17:53:11,430 | INFO |   total_frames: 0
+2026-02-27 17:53:11,430 | INFO | ================================================================================
+2026-02-27 23:57:39,789 | INFO | ================================================================================
+2026-02-27 23:57:39,789 | INFO | Session Started
+2026-02-27 23:57:39,789 | INFO | ================================================================================
+2026-02-27 23:57:39,800 | INFO | Detector initialized
+2026-02-28 00:00:19,841 | INFO | ================================================================================
+2026-02-28 00:00:19,841 | INFO | Session Started
+2026-02-28 00:00:19,841 | INFO | ================================================================================
+2026-02-28 00:00:19,849 | INFO | Detector initialized
+2026-02-28 00:02:03,398 | INFO | ================================================================================
+2026-02-28 00:02:03,398 | INFO | Session Started
+2026-02-28 00:02:03,398 | INFO | ================================================================================
+2026-02-28 00:02:03,405 | INFO | Detector initialized
+2026-02-28 00:03:22,224 | INFO | ================================================================================
+2026-02-28 00:03:22,224 | INFO | Session Started
+2026-02-28 00:03:22,224 | INFO | ================================================================================
+2026-02-28 00:03:22,224 | INFO | Detector initialized
+2026-02-28 00:04:18,410 | INFO | ================================================================================
+2026-02-28 00:04:18,410 | INFO | Session Started
+2026-02-28 00:04:18,410 | INFO | ================================================================================
+2026-02-28 00:04:18,428 | INFO | Detector initialized
+2026-02-28 00:05:00,361 | INFO | ================================================================================
+2026-02-28 00:05:00,361 | INFO | Session Started
+2026-02-28 00:05:00,361 | INFO | ================================================================================
+2026-02-28 00:05:00,370 | INFO | Detector initialized
+2026-02-28 00:05:54,740 | INFO | ================================================================================
+2026-02-28 00:05:54,740 | INFO | Session Started
+2026-02-28 00:05:54,742 | INFO | ================================================================================
+2026-02-28 00:06:30,040 | INFO | ================================================================================
+2026-02-28 00:06:30,040 | INFO | Session Started
+2026-02-28 00:06:30,040 | INFO | ================================================================================
+2026-02-28 00:06:30,048 | INFO | Detector initialized
+2026-02-28 00:09:29,738 | INFO | ================================================================================
+2026-02-28 00:09:29,738 | INFO | Session Started
+2026-02-28 00:09:29,738 | INFO | ================================================================================
+2026-02-28 00:09:29,745 | INFO | Detector initialized
+2026-02-28 00:09:59,024 | INFO | ================================================================================
+2026-02-28 00:09:59,024 | INFO | Session Started
+2026-02-28 00:09:59,024 | INFO | ================================================================================
+2026-02-28 00:09:59,031 | INFO | Detector initialized
+2026-02-28 00:10:34,124 | INFO | ================================================================================
+2026-02-28 00:10:34,124 | INFO | Session Started
+2026-02-28 00:10:34,124 | INFO | ================================================================================
+2026-02-28 00:10:34,131 | INFO | Detector initialized
+2026-02-28 00:11:33,348 | INFO | DETECTION | Frame:30 | EAR:0.3289 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:11:33,716 | WARNING | Drowsy frames: 10
+2026-02-28 00:11:34,019 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2398, Open=0.3424, Closed=0.1771
+2026-02-28 00:11:34,180 | INFO | Eyes opened - counter reset
+2026-02-28 00:11:34,355 | INFO | DETECTION | Frame:60 | EAR:0.2952 | Threshold:0.2398 | Drowsy:False
+2026-02-28 00:11:34,676 | WARNING | Drowsy frames: 10
+2026-02-28 00:11:35,346 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1628, Frame=90
+2026-02-28 00:11:35,347 | INFO | DETECTION | Frame:90 | EAR:0.1628 | Threshold:0.2398 | Drowsy:True
+2026-02-28 00:11:35,683 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2398 -> 0.2413
+2026-02-28 00:11:35,973 | INFO | Eyes opened - counter reset
+2026-02-28 00:11:35,973 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:11:36,338 | INFO | DETECTION | Frame:120 | EAR:0.3624 | Threshold:0.2413 | Drowsy:False
+2026-02-28 00:11:36,708 | INFO | Eyes opened - counter reset
+2026-02-28 00:11:37,346 | INFO | DETECTION | Frame:150 | EAR:0.3454 | Threshold:0.2413 | Drowsy:False
+2026-02-28 00:11:38,339 | INFO | DETECTION | Frame:180 | EAR:0.4024 | Threshold:0.2413 | Drowsy:False
+2026-02-28 00:11:39,010 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2413 -> 0.2483
+2026-02-28 00:11:39,276 | INFO | ================================================================================
+2026-02-28 00:11:39,276 | INFO | SESSION DETAILS
+2026-02-28 00:11:39,276 | INFO |   duration_seconds: 65.14
+2026-02-28 00:11:39,276 | INFO |   total_frames: 208
+2026-02-28 00:11:39,276 | INFO |   mean_ear: 0.3559
+2026-02-28 00:11:39,276 | INFO |   std_ear: 0.0348
+2026-02-28 00:11:39,276 | INFO |   min_ear: 0.1602
+2026-02-28 00:11:39,276 | INFO |   max_ear: 0.4024
+2026-02-28 00:11:39,276 | INFO | ================================================================================
+2026-02-28 00:17:01,139 | INFO | ================================================================================
+2026-02-28 00:17:01,139 | INFO | Session Started
+2026-02-28 00:17:01,139 | INFO | ================================================================================
+2026-02-28 00:17:01,148 | INFO | Detector initialized
+2026-02-28 00:17:25,189 | INFO | ================================================================================
+2026-02-28 00:17:25,189 | INFO | Session Started
+2026-02-28 00:17:25,189 | INFO | ================================================================================
+2026-02-28 00:17:25,193 | INFO | Detector initialized
+2026-02-28 00:19:11,493 | INFO | ================================================================================
+2026-02-28 00:19:11,493 | INFO | Session Started
+2026-02-28 00:19:11,493 | INFO | ================================================================================
+2026-02-28 00:19:11,502 | INFO | Detector initialized
+2026-02-28 00:20:02,494 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:02,592 | INFO | DETECTION | Frame:30 | EAR:0.189 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:02,685 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:02,959 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:03,582 | INFO | DETECTION | Frame:60 | EAR:0.2955 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:04,192 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:04,289 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:04,624 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:04,624 | INFO | DETECTION | Frame:90 | EAR:0.1973 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:04,864 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:05,086 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:05,423 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:05,616 | INFO | DETECTION | Frame:120 | EAR:0.2033 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:05,632 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:05,728 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:06,015 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:06,160 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:06,479 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:06,622 | INFO | DETECTION | Frame:150 | EAR:0.1968 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:06,750 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:06,848 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:06,990 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:07,616 | INFO | DETECTION | Frame:180 | EAR:0.3729 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:08,124 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:08,144 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:08,622 | INFO | DETECTION | Frame:210 | EAR:0.3774 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:08,944 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:09,615 | INFO | DETECTION | Frame:240 | EAR:0.3433 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:10,206 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:10,606 | INFO | DETECTION | Frame:270 | EAR:0.1662 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:10,784 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:11,038 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:11,374 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:11,439 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:11,504 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:11,615 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:11,615 | INFO | DETECTION | Frame:300 | EAR:0.2122 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:11,743 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:11,807 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:11,901 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:12,238 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:12,269 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:12,335 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:12,606 | INFO | DETECTION | Frame:330 | EAR:0.2306 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:13,438 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:13,616 | INFO | DETECTION | Frame:360 | EAR:0.1813 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:14,112 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1946, Frame=375
+2026-02-28 00:20:14,542 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:14,542 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:20:14,606 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:14,606 | INFO | DETECTION | Frame:390 | EAR:0.2135 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:14,798 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:15,599 | INFO | DETECTION | Frame:420 | EAR:0.2931 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:15,775 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:16,062 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:16,398 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:16,575 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:16,608 | INFO | DETECTION | Frame:450 | EAR:0.2023 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:16,895 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:17,230 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:17,598 | INFO | DETECTION | Frame:480 | EAR:0.1941 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:17,726 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:18,064 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:18,606 | INFO | DETECTION | Frame:510 | EAR:0.2007 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:18,734 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1685, Frame=514
+2026-02-28 00:20:19,327 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:19,327 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:20:19,598 | INFO | DETECTION | Frame:540 | EAR:0.339 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:20,431 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:20,591 | INFO | DETECTION | Frame:570 | EAR:0.3254 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:21,600 | INFO | DETECTION | Frame:600 | EAR:0.3252 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:22,622 | INFO | DETECTION | Frame:630 | EAR:0.3392 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:23,598 | INFO | DETECTION | Frame:660 | EAR:0.2515 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:24,590 | INFO | DETECTION | Frame:690 | EAR:0.2427 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:25,599 | INFO | DETECTION | Frame:720 | EAR:0.1892 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:25,822 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:25,952 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:26,192 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:26,319 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:26,384 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:26,527 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:26,623 | INFO | DETECTION | Frame:750 | EAR:0.259 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:26,782 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:27,054 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:27,184 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:27,309 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:27,454 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:27,616 | INFO | DETECTION | Frame:780 | EAR:0.1803 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:27,692 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:27,854 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:27,951 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:28,384 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:28,573 | INFO | DETECTION | Frame:810 | EAR:0.2443 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:29,086 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:29,614 | INFO | DETECTION | Frame:840 | EAR:0.2159 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:29,806 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:30,144 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:30,206 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:30,542 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:30,607 | INFO | DETECTION | Frame:870 | EAR:0.1976 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:30,878 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:31,006 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:31,344 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:31,471 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:31,614 | INFO | DETECTION | Frame:900 | EAR:0.2002 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:31,744 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:32,016 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:32,079 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:32,144 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:32,414 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:32,606 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:32,606 | INFO | DETECTION | Frame:930 | EAR:0.2153 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:32,735 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:33,616 | INFO | DETECTION | Frame:960 | EAR:0.2243 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:34,606 | INFO | DETECTION | Frame:990 | EAR:0.3332 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:35,247 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:35,311 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:35,407 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:35,600 | INFO | DETECTION | Frame:1020 | EAR:0.2143 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:36,366 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:36,607 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:36,607 | INFO | DETECTION | Frame:1050 | EAR:0.2142 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:36,942 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:37,598 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.2019, Frame=1080
+2026-02-28 00:20:37,598 | INFO | DETECTION | Frame:1080 | EAR:0.2019 | Threshold:0.21 | Drowsy:True
+2026-02-28 00:20:37,694 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:37,694 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:20:37,997 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:38,335 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:38,608 | INFO | DETECTION | Frame:1110 | EAR:0.1778 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:39,006 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1926, Frame=1122
+2026-02-28 00:20:39,135 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:39,135 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:20:39,262 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:39,391 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:39,471 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:39,599 | INFO | DETECTION | Frame:1140 | EAR:0.2063 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:39,726 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:39,998 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:40,333 | WARNING | Drowsy frames: 10
+2026-02-28 00:20:40,590 | INFO | DETECTION | Frame:1170 | EAR:0.1934 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:40,990 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1848, Frame=1182
+2026-02-28 00:20:41,166 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:41,166 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:20:41,230 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:41,486 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:41,599 | INFO | DETECTION | Frame:1200 | EAR:0.2017 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:41,632 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:41,759 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:41,966 | INFO | Eyes opened - counter reset
+2026-02-28 00:20:42,621 | INFO | DETECTION | Frame:1230 | EAR:0.3225 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:43,599 | INFO | DETECTION | Frame:1260 | EAR:0.4017 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:44,621 | INFO | DETECTION | Frame:1290 | EAR:0.3849 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:20:44,870 | INFO | ================================================================================
+2026-02-28 00:20:44,870 | INFO | SESSION DETAILS
+2026-02-28 00:20:44,870 | INFO |   duration_seconds: 93.37
+2026-02-28 00:20:44,870 | INFO |   total_frames: 1298
+2026-02-28 00:20:44,870 | INFO |   mean_ear: 0.337
+2026-02-28 00:20:44,870 | INFO |   std_ear: 0.0654
+2026-02-28 00:20:44,870 | INFO |   min_ear: 0.1915
+2026-02-28 00:20:44,870 | INFO |   max_ear: 0.4224
+2026-02-28 00:20:44,870 | INFO | ================================================================================
+2026-02-28 00:23:33,806 | INFO | ================================================================================
+2026-02-28 00:23:33,806 | INFO | Session Started
+2026-02-28 00:23:33,806 | INFO | ================================================================================
+2026-02-28 00:23:33,814 | INFO | Detector initialized
+2026-02-28 00:24:19,383 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:19,480 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:19,592 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:19,592 | INFO | DETECTION | Frame:30 | EAR:0.2365 | Threshold:0.21 | Drowsy:False
+2026-02-28 00:24:19,655 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:19,976 | WARNING | Drowsy frames: 10
+2026-02-28 00:24:20,247 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2524, Open=0.3681, Closed=0.1767
+2026-02-28 00:24:20,583 | INFO | DETECTION | Frame:60 | EAR:0.1581 | Threshold:0.2524 | Drowsy:False
+2026-02-28 00:24:20,648 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1563, Frame=62
+2026-02-28 00:24:21,080 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:21,080 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:24:21,577 | INFO | DETECTION | Frame:90 | EAR:0.3095 | Threshold:0.2524 | Drowsy:False
+2026-02-28 00:24:21,912 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2524 -> 0.2537
+2026-02-28 00:24:22,007 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:22,488 | WARNING | Drowsy frames: 10
+2026-02-28 00:24:22,582 | INFO | DETECTION | Frame:120 | EAR:0.1417 | Threshold:0.2537 | Drowsy:False
+2026-02-28 00:24:23,142 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1727, Frame=137
+2026-02-28 00:24:23,575 | INFO | DETECTION | Frame:150 | EAR:0.1913 | Threshold:0.2537 | Drowsy:True
+2026-02-28 00:24:24,568 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:24,568 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:24:24,568 | INFO | DETECTION | Frame:180 | EAR:0.2968 | Threshold:0.2537 | Drowsy:False
+2026-02-28 00:24:25,271 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2537 -> 0.2545
+2026-02-28 00:24:25,575 | INFO | DETECTION | Frame:210 | EAR:0.1557 | Threshold:0.2545 | Drowsy:False
+2026-02-28 00:24:25,609 | WARNING | Drowsy frames: 10
+2026-02-28 00:24:26,265 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1827, Frame=231
+2026-02-28 00:24:26,601 | INFO | DETECTION | Frame:240 | EAR:0.1838 | Threshold:0.2545 | Drowsy:True
+2026-02-28 00:24:27,575 | INFO | DETECTION | Frame:270 | EAR:0.2117 | Threshold:0.2545 | Drowsy:True
+2026-02-28 00:24:28,598 | INFO | EVENT | Type:RECALIBRATION | Details:Threshold: 0.2545 -> 0.2477
+2026-02-28 00:24:28,598 | INFO | DETECTION | Frame:300 | EAR:0.1984 | Threshold:0.2477 | Drowsy:True
+2026-02-28 00:24:29,336 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:29,336 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 00:24:29,559 | INFO | DETECTION | Frame:330 | EAR:0.3559 | Threshold:0.2477 | Drowsy:False
+2026-02-28 00:24:30,359 | INFO | Eyes opened - counter reset
+2026-02-28 00:24:30,601 | INFO | DETECTION | Frame:360 | EAR:0.3332 | Threshold:0.2477 | Drowsy:False
+2026-02-28 00:24:31,592 | INFO | DETECTION | Frame:390 | EAR:0.3531 | Threshold:0.2477 | Drowsy:False
+2026-02-28 00:24:31,903 | INFO | ================================================================================
+2026-02-28 00:24:31,903 | INFO | SESSION DETAILS
+2026-02-28 00:24:31,903 | INFO |   duration_seconds: 58.09
+2026-02-28 00:24:31,903 | INFO |   total_frames: 399
+2026-02-28 00:24:31,903 | INFO |   mean_ear: 0.3104
+2026-02-28 00:24:31,903 | INFO |   std_ear: 0.0697
+2026-02-28 00:24:31,903 | INFO |   min_ear: 0.1472
+2026-02-28 00:24:31,903 | INFO |   max_ear: 0.3922
+2026-02-28 00:24:31,904 | INFO | ================================================================================
+2026-02-28 00:55:18,694 | INFO | ================================================================================
+2026-02-28 00:55:18,694 | INFO | Session Started
+2026-02-28 00:55:18,694 | INFO | ================================================================================
+2026-02-28 00:55:18,701 | INFO | Detector initialized
+2026-02-28 00:55:59,078 | INFO | ================================================================================
+2026-02-28 00:55:59,078 | INFO | Session Started
+2026-02-28 00:55:59,078 | INFO | ================================================================================
+2026-02-28 00:55:59,086 | INFO | Detector initialized
+2026-02-28 00:56:15,644 | INFO | ================================================================================
+2026-02-28 00:56:15,645 | INFO | Session Started
+2026-02-28 00:56:15,645 | INFO | ================================================================================
+2026-02-28 00:56:15,648 | INFO | Detector initialized
+2026-02-28 00:56:22,930 | INFO | ================================================================================
+2026-02-28 00:56:22,930 | INFO | Session Started
+2026-02-28 00:56:22,930 | INFO | ================================================================================
+2026-02-28 00:56:22,934 | INFO | Detector initialized
+2026-02-28 00:56:46,351 | INFO | ================================================================================
+2026-02-28 00:56:46,351 | INFO | Session Started
+2026-02-28 00:56:46,351 | INFO | ================================================================================
+2026-02-28 00:56:46,351 | INFO | Detector initialized
+2026-02-28 00:57:42,951 | INFO | ================================================================================
+2026-02-28 00:57:42,951 | INFO | Session Started
+2026-02-28 00:57:42,951 | INFO | ================================================================================
+2026-02-28 00:57:42,960 | INFO | Detector initialized
+2026-02-28 00:57:44,116 | INFO | ================================================================================
+2026-02-28 00:57:44,116 | INFO | SESSION DETAILS
+2026-02-28 00:57:44,116 | INFO |   duration_seconds: 1.16
+2026-02-28 00:57:44,116 | INFO |   total_frames: 0
+2026-02-28 00:57:44,116 | INFO | ================================================================================
+2026-02-28 00:58:00,921 | INFO | ================================================================================
+2026-02-28 00:58:00,921 | INFO | Session Started
+2026-02-28 00:58:00,921 | INFO | ================================================================================
+2026-02-28 00:58:00,928 | INFO | Detector initialized
+2026-02-28 00:58:01,368 | INFO | ================================================================================
+2026-02-28 00:58:01,368 | INFO | SESSION DETAILS
+2026-02-28 00:58:01,368 | INFO |   duration_seconds: 0.44
+2026-02-28 00:58:01,368 | INFO |   total_frames: 0
+2026-02-28 00:58:01,368 | INFO | ================================================================================
+2026-02-28 01:00:51,688 | INFO | ================================================================================
+2026-02-28 01:00:51,688 | INFO | Session Started
+2026-02-28 01:00:51,688 | INFO | ================================================================================
+2026-02-28 01:00:51,696 | INFO | Detector initialized
+2026-02-28 01:00:54,938 | INFO | DETECTION | Frame:30 | EAR:0.3957 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:00:55,513 | INFO | Eyes opened - counter reset
+2026-02-28 01:00:55,913 | WARNING | Drowsy frames: 10
+2026-02-28 01:00:55,961 | INFO | DETECTION | Frame:60 | EAR:0.1225 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:00:56,424 | INFO | Eyes opened - counter reset
+2026-02-28 01:00:56,942 | INFO | DETECTION | Frame:90 | EAR:0.3241 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:00:57,335 | INFO | Eyes opened - counter reset
+2026-02-28 01:00:57,721 | WARNING | Drowsy frames: 10
+2026-02-28 01:00:57,985 | INFO | DETECTION | Frame:120 | EAR:0.1323 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:00:58,373 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1369, Frame=133
+2026-02-28 01:00:58,809 | INFO | Eyes opened - counter reset
+2026-02-28 01:00:58,810 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 01:00:58,936 | INFO | DETECTION | Frame:150 | EAR:0.2936 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:00:59,963 | INFO | DETECTION | Frame:180 | EAR:0.1961 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:00,169 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:00,807 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:00,932 | INFO | DETECTION | Frame:210 | EAR:0.1629 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:01,161 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:01,657 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:01,706 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:01,964 | INFO | DETECTION | Frame:240 | EAR:0.2394 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:02,235 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:02,637 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:02,970 | INFO | DETECTION | Frame:270 | EAR:0.1647 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:03,017 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:03,962 | INFO | DETECTION | Frame:300 | EAR:0.375 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:04,954 | INFO | DETECTION | Frame:330 | EAR:0.3463 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:05,962 | INFO | DETECTION | Frame:360 | EAR:0.339 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:06,762 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:06,953 | INFO | DETECTION | Frame:390 | EAR:0.2076 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:07,162 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:07,659 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:07,913 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:07,962 | INFO | DETECTION | Frame:420 | EAR:0.2266 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:08,057 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:08,553 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:08,565 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:08,904 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:08,953 | INFO | DETECTION | Frame:450 | EAR:0.2097 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:08,972 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:09,562 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:09,962 | INFO | DETECTION | Frame:480 | EAR:0.1571 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:10,202 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1394, Frame=488
+2026-02-28 01:01:10,903 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:10,903 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 01:01:10,953 | INFO | DETECTION | Frame:510 | EAR:0.2797 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:11,962 | INFO | DETECTION | Frame:540 | EAR:0.3625 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:12,662 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:12,955 | INFO | DETECTION | Frame:570 | EAR:0.1922 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:13,001 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:13,669 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1772, Frame=592
+2026-02-28 01:01:13,945 | INFO | DETECTION | Frame:600 | EAR:0.19 | Threshold:0.21 | Drowsy:True
+2026-02-28 01:01:14,823 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:14,823 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 01:01:14,954 | INFO | DETECTION | Frame:630 | EAR:0.1904 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:15,096 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:15,497 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:15,670 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:15,753 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:15,946 | INFO | DETECTION | Frame:660 | EAR:0.1953 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:16,009 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:16,553 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:16,601 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:16,953 | INFO | DETECTION | Frame:690 | EAR:0.2026 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:16,964 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:17,946 | INFO | DETECTION | Frame:720 | EAR:0.2489 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:18,395 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:18,751 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:18,952 | INFO | DETECTION | Frame:750 | EAR:0.2217 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:19,354 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:19,400 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:19,593 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:19,716 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:19,862 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:19,945 | INFO | DETECTION | Frame:780 | EAR:0.236 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:20,955 | INFO | DETECTION | Frame:810 | EAR:0.3203 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:21,593 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:21,766 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:21,947 | INFO | DETECTION | Frame:840 | EAR:0.173 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:22,041 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:22,601 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:22,697 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:22,953 | INFO | DETECTION | Frame:870 | EAR:0.1925 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:23,049 | WARNING | Drowsy frames: 10
+2026-02-28 01:01:23,702 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.128, Frame=893
+2026-02-28 01:01:23,946 | INFO | DETECTION | Frame:900 | EAR:0.1464 | Threshold:0.21 | Drowsy:True
+2026-02-28 01:01:24,090 | INFO | Eyes opened - counter reset
+2026-02-28 01:01:24,090 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 01:01:24,937 | INFO | DETECTION | Frame:930 | EAR:0.2976 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:25,946 | INFO | DETECTION | Frame:960 | EAR:0.3285 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:01:26,349 | INFO | ================================================================================
+2026-02-28 01:01:26,350 | INFO | SESSION DETAILS
+2026-02-28 01:01:26,350 | INFO |   duration_seconds: 34.65
+2026-02-28 01:01:26,350 | INFO |   total_frames: 960
+2026-02-28 01:01:26,350 | INFO |   mean_ear: 0.2427
+2026-02-28 01:01:26,350 | INFO |   std_ear: 0.0755
+2026-02-28 01:01:26,350 | INFO |   min_ear: 0.128
+2026-02-28 01:01:26,350 | INFO |   max_ear: 0.3336
+2026-02-28 01:01:26,350 | INFO | ================================================================================
+2026-02-28 01:03:44,695 | INFO | ================================================================================
+2026-02-28 01:03:44,695 | INFO | Session Started
+2026-02-28 01:03:44,695 | INFO | ================================================================================
+2026-02-28 01:03:44,711 | INFO | Detector initialized
+2026-02-28 01:06:19,739 | WARNING | Drowsy frames: 10
+2026-02-28 01:06:19,799 | INFO | DETECTION | Frame:30 | EAR:0.1369 | Threshold:0.21 | Drowsy:False
+2026-02-28 01:06:20,407 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1431, Frame=48
+2026-02-28 01:06:20,453 | INFO | EVENT | Type:CALIBRATION | Details:Threshold=0.2212, Open=0.3366, Closed=0.1458
+2026-02-28 01:06:20,730 | INFO | Eyes opened - counter reset
+2026-02-28 01:06:20,730 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-02-28 01:06:20,805 | INFO | DETECTION | Frame:60 | EAR:0.225 | Threshold:0.2212 | Drowsy:False
+2026-02-28 01:06:21,808 | INFO | ================================================================================
+2026-02-28 01:06:21,808 | INFO | SESSION DETAILS
+2026-02-28 01:06:21,808 | INFO |   duration_seconds: 157.1
+2026-02-28 01:06:21,808 | INFO |   total_frames: 88
+2026-02-28 01:06:21,808 | INFO |   mean_ear: 0.2487
+2026-02-28 01:06:21,808 | INFO |   std_ear: 0.0937
+2026-02-28 01:06:21,808 | INFO |   min_ear: 0.1278
+2026-02-28 01:06:21,808 | INFO |   max_ear: 0.3744
+2026-02-28 01:06:21,808 | INFO | ================================================================================
+2026-02-28 23:05:43,788 | INFO | ================================================================================
+2026-02-28 23:05:43,788 | INFO | Session Started
+2026-02-28 23:05:43,788 | INFO | ================================================================================
+2026-02-28 23:05:43,828 | INFO | Detector initialized
+2026-02-28 23:06:28,200 | INFO | ================================================================================
+2026-02-28 23:06:28,200 | INFO | SESSION DETAILS
+2026-02-28 23:06:28,200 | INFO |   duration_seconds: 44.37
+2026-02-28 23:06:28,200 | INFO |   total_frames: 0
+2026-02-28 23:06:28,200 | INFO | ================================================================================
+2026-03-01 17:25:26,575 | INFO | ================================================================================
+2026-03-01 17:25:26,576 | INFO | Session Started
+2026-03-01 17:25:26,576 | INFO | ================================================================================
+2026-03-01 17:25:26,592 | INFO | Detector initialized
+2026-03-01 17:26:20,119 | INFO | DETECTION | Frame:30 | EAR:0.3875 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:21,109 | INFO | DETECTION | Frame:60 | EAR:0.3521 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:22,103 | INFO | DETECTION | Frame:90 | EAR:0.2667 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:23,137 | INFO | DETECTION | Frame:120 | EAR:0.267 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:24,134 | INFO | DETECTION | Frame:150 | EAR:0.3088 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:25,110 | INFO | DETECTION | Frame:180 | EAR:0.3512 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:26,133 | INFO | DETECTION | Frame:210 | EAR:0.2498 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:27,107 | INFO | DETECTION | Frame:240 | EAR:0.2466 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:28,135 | INFO | DETECTION | Frame:270 | EAR:0.2312 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:29,127 | INFO | DETECTION | Frame:300 | EAR:0.2782 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:30,134 | INFO | DETECTION | Frame:330 | EAR:0.367 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:31,127 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:31,127 | INFO | DETECTION | Frame:360 | EAR:0.2904 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:31,717 | WARNING | Drowsy frames: 10
+2026-03-01 17:26:32,118 | INFO | DETECTION | Frame:390 | EAR:0.1148 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:32,391 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1348, Frame=398
+2026-03-01 17:26:33,127 | INFO | DETECTION | Frame:420 | EAR:0.1744 | Threshold:0.21 | Drowsy:True
+2026-03-01 17:26:33,159 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:33,159 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:26:34,117 | INFO | DETECTION | Frame:450 | EAR:0.3648 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:34,423 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:35,129 | INFO | DETECTION | Frame:480 | EAR:0.34 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:36,118 | INFO | DETECTION | Frame:510 | EAR:0.3693 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:37,111 | INFO | DETECTION | Frame:540 | EAR:0.3166 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:37,510 | WARNING | Drowsy frames: 10
+2026-03-01 17:26:38,121 | INFO | DETECTION | Frame:570 | EAR:0.1046 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:38,183 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1185, Frame=572
+2026-03-01 17:26:38,952 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:38,952 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:26:39,111 | INFO | DETECTION | Frame:600 | EAR:0.3645 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:40,117 | INFO | DETECTION | Frame:630 | EAR:0.1242 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:40,375 | WARNING | Drowsy frames: 10
+2026-03-01 17:26:41,046 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1229, Frame=658
+2026-03-01 17:26:41,109 | INFO | DETECTION | Frame:660 | EAR:0.123 | Threshold:0.21 | Drowsy:True
+2026-03-01 17:26:41,670 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:41,670 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:26:42,102 | INFO | DETECTION | Frame:690 | EAR:0.336 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:42,309 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:43,111 | INFO | DETECTION | Frame:720 | EAR:0.1192 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:43,208 | WARNING | Drowsy frames: 10
+2026-03-01 17:26:43,878 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1441, Frame=743
+2026-03-01 17:26:44,134 | INFO | DETECTION | Frame:750 | EAR:0.1058 | Threshold:0.21 | Drowsy:True
+2026-03-01 17:26:45,109 | INFO | DETECTION | Frame:780 | EAR:0.1111 | Threshold:0.21 | Drowsy:True
+2026-03-01 17:26:45,335 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:45,335 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:26:46,135 | INFO | DETECTION | Frame:810 | EAR:0.1297 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:46,407 | WARNING | Drowsy frames: 10
+2026-03-01 17:26:47,073 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0985, Frame=839
+2026-03-01 17:26:47,093 | INFO | DETECTION | Frame:840 | EAR:0.0956 | Threshold:0.21 | Drowsy:True
+2026-03-01 17:26:47,638 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:47,639 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:26:48,037 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:48,135 | INFO | DETECTION | Frame:870 | EAR:0.3739 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:48,535 | INFO | Eyes opened - counter reset
+2026-03-01 17:26:49,128 | INFO | DETECTION | Frame:900 | EAR:0.3829 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:50,136 | INFO | DETECTION | Frame:930 | EAR:0.4502 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:26:50,388 | INFO | ================================================================================
+2026-03-01 17:26:50,388 | INFO | SESSION DETAILS
+2026-03-01 17:26:50,388 | INFO |   duration_seconds: 83.8
+2026-03-01 17:26:50,388 | INFO |   total_frames: 936
+2026-03-01 17:26:50,388 | INFO |   mean_ear: 0.3296
+2026-03-01 17:26:50,388 | INFO |   std_ear: 0.1309
+2026-03-01 17:26:50,388 | INFO |   min_ear: 0.0878
+2026-03-01 17:26:50,388 | INFO |   max_ear: 0.4679
+2026-03-01 17:26:50,388 | INFO | ================================================================================
+2026-03-01 17:27:18,654 | INFO | ================================================================================
+2026-03-01 17:27:18,654 | INFO | Session Started
+2026-03-01 17:27:18,654 | INFO | ================================================================================
+2026-03-01 17:27:18,661 | INFO | Detector initialized
+2026-03-01 17:28:15,807 | INFO | DETECTION | Frame:30 | EAR:0.4017 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:16,782 | INFO | DETECTION | Frame:60 | EAR:0.3666 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:17,808 | INFO | DETECTION | Frame:90 | EAR:0.266 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:18,800 | INFO | DETECTION | Frame:120 | EAR:0.2753 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:19,808 | INFO | DETECTION | Frame:150 | EAR:0.263 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:20,799 | INFO | DETECTION | Frame:180 | EAR:0.2797 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:21,791 | INFO | DETECTION | Frame:210 | EAR:0.2582 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:22,191 | WARNING | Drowsy frames: 10
+2026-03-01 17:28:22,271 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:22,801 | INFO | DETECTION | Frame:240 | EAR:0.4127 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:23,168 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:23,793 | INFO | DETECTION | Frame:270 | EAR:0.3359 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:24,401 | WARNING | Drowsy frames: 10
+2026-03-01 17:28:24,799 | INFO | DETECTION | Frame:300 | EAR:0.0897 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:25,796 | INFO | DETECTION | Frame:330 | EAR:0.0999 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:26,065 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0966, Frame=338
+2026-03-01 17:28:26,688 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:26,688 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:28:26,786 | INFO | DETECTION | Frame:360 | EAR:0.3468 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:27,585 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:27,791 | INFO | DETECTION | Frame:390 | EAR:0.3043 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:28,784 | INFO | DETECTION | Frame:420 | EAR:0.3269 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:29,791 | INFO | DETECTION | Frame:450 | EAR:0.3151 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:30,226 | WARNING | Drowsy frames: 10
+2026-03-01 17:28:30,784 | INFO | DETECTION | Frame:480 | EAR:0.1854 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:30,850 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:31,087 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:31,425 | WARNING | Drowsy frames: 10
+2026-03-01 17:28:31,777 | INFO | DETECTION | Frame:510 | EAR:0.1594 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:31,858 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:32,688 | WARNING | Drowsy frames: 10
+2026-03-01 17:28:32,784 | INFO | DETECTION | Frame:540 | EAR:0.0861 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:33,810 | INFO | DETECTION | Frame:570 | EAR:0.0851 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:34,352 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0892, Frame=587
+2026-03-01 17:28:34,785 | INFO | DETECTION | Frame:600 | EAR:0.089 | Threshold:0.21 | Drowsy:True
+2026-03-01 17:28:35,584 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:35,585 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:28:35,810 | INFO | DETECTION | Frame:630 | EAR:0.375 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:36,273 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:36,767 | INFO | DETECTION | Frame:660 | EAR:0.3248 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:37,713 | WARNING | Drowsy frames: 10
+2026-03-01 17:28:37,811 | INFO | DETECTION | Frame:690 | EAR:0.0797 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:38,801 | INFO | DETECTION | Frame:720 | EAR:0.0959 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:39,408 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0885, Frame=738
+2026-03-01 17:28:39,807 | INFO | DETECTION | Frame:750 | EAR:0.0973 | Threshold:0.21 | Drowsy:True
+2026-03-01 17:28:40,432 | INFO | Eyes opened - counter reset
+2026-03-01 17:28:40,432 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 17:28:40,799 | INFO | DETECTION | Frame:780 | EAR:0.358 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:41,791 | INFO | DETECTION | Frame:810 | EAR:0.3758 | Threshold:0.21 | Drowsy:False
+2026-03-01 17:28:42,964 | INFO | ================================================================================
+2026-03-01 17:28:42,964 | INFO | SESSION DETAILS
+2026-03-01 17:28:42,964 | INFO |   duration_seconds: 84.3
+2026-03-01 17:28:42,964 | INFO |   total_frames: 833
+2026-03-01 17:28:42,964 | INFO |   mean_ear: 0.2674
+2026-03-01 17:28:42,964 | INFO |   std_ear: 0.1327
+2026-03-01 17:28:42,964 | INFO |   min_ear: 0.0622
+2026-03-01 17:28:42,964 | INFO |   max_ear: 0.398
+2026-03-01 17:28:42,964 | INFO | ================================================================================
+2026-03-01 23:18:34,773 | INFO | ================================================================================
+2026-03-01 23:18:34,774 | INFO | Session Started
+2026-03-01 23:18:34,774 | INFO | ================================================================================
+2026-03-01 23:18:34,788 | INFO | Detector initialized
+2026-03-01 23:19:24,404 | INFO | DETECTION | Frame:30 | EAR:0.4272 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:25,411 | INFO | DETECTION | Frame:60 | EAR:0.1862 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:25,490 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:26,404 | INFO | DETECTION | Frame:90 | EAR:0.4284 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:27,412 | INFO | DETECTION | Frame:120 | EAR:0.4287 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:27,699 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:28,404 | INFO | DETECTION | Frame:150 | EAR:0.4532 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:29,411 | INFO | DETECTION | Frame:180 | EAR:0.4088 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:29,569 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:30,404 | INFO | DETECTION | Frame:210 | EAR:0.4363 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:31,413 | INFO | DETECTION | Frame:240 | EAR:0.4034 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:32,403 | INFO | DETECTION | Frame:270 | EAR:0.4413 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:32,785 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:33,410 | INFO | DETECTION | Frame:300 | EAR:0.3954 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:34,404 | INFO | DETECTION | Frame:330 | EAR:0.3518 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:35,412 | INFO | DETECTION | Frame:360 | EAR:0.3082 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:36,406 | INFO | DETECTION | Frame:390 | EAR:0.2987 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:37,412 | INFO | DETECTION | Frame:420 | EAR:0.3006 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:38,403 | INFO | DETECTION | Frame:450 | EAR:0.2795 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:39,412 | INFO | DETECTION | Frame:480 | EAR:0.2704 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:40,403 | INFO | DETECTION | Frame:510 | EAR:0.2731 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:41,155 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:41,411 | INFO | DETECTION | Frame:540 | EAR:0.3405 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:41,905 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:42,370 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:42,405 | INFO | DETECTION | Frame:570 | EAR:0.3336 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:42,994 | WARNING | Drowsy frames: 10
+2026-03-01 23:19:43,075 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:43,412 | INFO | DETECTION | Frame:600 | EAR:0.3674 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:44,113 | WARNING | Drowsy frames: 10
+2026-03-01 23:19:44,404 | INFO | DETECTION | Frame:630 | EAR:0.0795 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:45,411 | INFO | DETECTION | Frame:660 | EAR:0.0721 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:45,779 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.0974, Frame=671
+2026-03-01 23:19:46,242 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:46,242 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-01 23:19:46,404 | INFO | DETECTION | Frame:690 | EAR:0.3759 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:47,411 | INFO | DETECTION | Frame:720 | EAR:0.3853 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:48,401 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:48,402 | INFO | DETECTION | Frame:750 | EAR:0.3009 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:49,410 | INFO | DETECTION | Frame:780 | EAR:0.3613 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:49,652 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:50,404 | INFO | DETECTION | Frame:810 | EAR:0.383 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:51,412 | INFO | DETECTION | Frame:840 | EAR:0.3546 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:51,858 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:52,403 | INFO | DETECTION | Frame:870 | EAR:0.3252 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:53,411 | INFO | DETECTION | Frame:900 | EAR:0.3076 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:54,195 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:54,401 | INFO | DETECTION | Frame:930 | EAR:0.3095 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:54,820 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:55,410 | INFO | DETECTION | Frame:960 | EAR:0.3477 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:56,035 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:56,401 | INFO | DETECTION | Frame:990 | EAR:0.4413 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:56,580 | INFO | Eyes opened - counter reset
+2026-03-01 23:19:57,410 | INFO | DETECTION | Frame:1020 | EAR:0.4394 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:58,404 | INFO | DETECTION | Frame:1050 | EAR:0.3587 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:19:59,411 | INFO | DETECTION | Frame:1080 | EAR:0.3634 | Threshold:0.21 | Drowsy:False
+2026-03-01 23:20:02,828 | INFO | ================================================================================
+2026-03-01 23:20:02,828 | INFO | SESSION DETAILS
+2026-03-01 23:20:02,828 | INFO |   duration_seconds: 88.04
+2026-03-01 23:20:02,828 | INFO |   total_frames: 1087
+2026-03-01 23:20:02,828 | INFO |   mean_ear: 0.3799
+2026-03-01 23:20:02,828 | INFO |   std_ear: 0.0599
+2026-03-01 23:20:02,828 | INFO |   min_ear: 0.1182
+2026-03-01 23:20:02,828 | INFO |   max_ear: 0.4551
+2026-03-01 23:20:02,828 | INFO | ================================================================================
+2026-03-02 02:07:23,153 | INFO | ================================================================================
+2026-03-02 02:07:23,155 | INFO | Session Started
+2026-03-02 02:07:23,155 | INFO | ================================================================================
+2026-03-02 02:07:23,171 | INFO | Detector initialized
+2026-03-02 02:09:35,325 | INFO | DETECTION | Frame:30 | EAR:0.3455 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:36,334 | INFO | DETECTION | Frame:60 | EAR:0.3297 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:37,325 | INFO | DETECTION | Frame:90 | EAR:0.3571 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:38,334 | INFO | DETECTION | Frame:120 | EAR:0.3263 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:39,326 | INFO | DETECTION | Frame:150 | EAR:0.3352 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:40,335 | INFO | DETECTION | Frame:180 | EAR:0.3487 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:41,326 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:41,326 | INFO | DETECTION | Frame:210 | EAR:0.214 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:42,349 | INFO | DETECTION | Frame:240 | EAR:0.3412 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:43,324 | INFO | DETECTION | Frame:270 | EAR:0.39 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:44,351 | INFO | DETECTION | Frame:300 | EAR:0.3162 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:44,877 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:45,311 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:45,338 | INFO | DETECTION | Frame:330 | EAR:0.263 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:45,710 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:46,253 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:46,350 | INFO | DETECTION | Frame:360 | EAR:0.3156 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:46,942 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:47,340 | INFO | DETECTION | Frame:390 | EAR:0.3093 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:48,142 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:48,350 | INFO | DETECTION | Frame:420 | EAR:0.3175 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:48,911 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:49,342 | INFO | DETECTION | Frame:450 | EAR:0.3103 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:50,334 | INFO | DETECTION | Frame:480 | EAR:0.3131 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:51,342 | INFO | DETECTION | Frame:510 | EAR:0.2462 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:51,773 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:52,335 | INFO | DETECTION | Frame:540 | EAR:0.3085 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:53,340 | INFO | DETECTION | Frame:570 | EAR:0.2742 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:53,501 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:53,935 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:54,337 | INFO | DETECTION | Frame:600 | EAR:0.3138 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:55,293 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:55,326 | INFO | DETECTION | Frame:630 | EAR:0.2296 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:56,030 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:56,336 | INFO | DETECTION | Frame:660 | EAR:0.3075 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:57,327 | INFO | DETECTION | Frame:690 | EAR:0.1423 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:57,389 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:58,223 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:58,287 | INFO | Eyes opened - counter reset
+2026-03-02 02:09:58,333 | INFO | DETECTION | Frame:720 | EAR:0.2408 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:59,327 | INFO | DETECTION | Frame:750 | EAR:0.1723 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:09:59,630 | WARNING | Drowsy frames: 10
+2026-03-02 02:10:00,350 | INFO | DETECTION | Frame:780 | EAR:0.1544 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:01,293 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.15, Frame=809
+2026-03-02 02:10:01,327 | INFO | DETECTION | Frame:810 | EAR:0.1562 | Threshold:0.21 | Drowsy:True
+2026-03-02 02:10:02,350 | INFO | DETECTION | Frame:840 | EAR:0.1579 | Threshold:0.21 | Drowsy:True
+2026-03-02 02:10:03,324 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:03,324 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-02 02:10:03,324 | INFO | DETECTION | Frame:870 | EAR:0.2175 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:04,049 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:04,352 | INFO | DETECTION | Frame:900 | EAR:0.3092 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:04,846 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:05,326 | INFO | DETECTION | Frame:930 | EAR:0.3254 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:06,349 | INFO | DETECTION | Frame:960 | EAR:0.3714 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:06,718 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:06,941 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:07,343 | INFO | DETECTION | Frame:990 | EAR:0.3667 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:07,647 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:08,108 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:08,351 | INFO | DETECTION | Frame:1020 | EAR:0.3459 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:09,038 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:09,342 | INFO | DETECTION | Frame:1050 | EAR:0.1847 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:09,405 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:09,837 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:10,206 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:10,335 | INFO | DETECTION | Frame:1080 | EAR:0.3044 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:11,340 | INFO | DETECTION | Frame:1110 | EAR:0.2595 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:12,335 | INFO | DETECTION | Frame:1140 | EAR:0.2645 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:13,341 | INFO | DETECTION | Frame:1170 | EAR:0.1149 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:10:13,437 | INFO | Eyes opened - counter reset
+2026-03-02 02:10:14,333 | INFO | DETECTION | Frame:1200 | EAR:0.2439 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:11:59,181 | INFO | ================================================================================
+2026-03-02 02:11:59,181 | INFO | SESSION DETAILS
+2026-03-02 02:11:59,181 | INFO |   duration_seconds: 276.01
+2026-03-02 02:11:59,181 | INFO |   total_frames: 1221
+2026-03-02 02:11:59,181 | INFO |   mean_ear: 0.2651
+2026-03-02 02:11:59,181 | INFO |   std_ear: 0.0357
+2026-03-02 02:11:59,181 | INFO |   min_ear: 0.1037
+2026-03-02 02:11:59,181 | INFO |   max_ear: 0.3044
+2026-03-02 02:11:59,181 | INFO | ================================================================================
+2026-03-02 02:32:32,280 | INFO | ================================================================================
+2026-03-02 02:32:32,281 | INFO | Session Started
+2026-03-02 02:32:32,281 | INFO | ================================================================================
+2026-03-02 02:32:32,291 | INFO | Detector initialized
+2026-03-02 02:33:48,058 | INFO | DETECTION | Frame:30 | EAR:0.3646 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:49,082 | INFO | DETECTION | Frame:60 | EAR:0.3758 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:50,076 | INFO | DETECTION | Frame:90 | EAR:0.346 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:50,219 | INFO | Eyes opened - counter reset
+2026-03-02 02:33:51,084 | INFO | DETECTION | Frame:120 | EAR:0.3416 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:51,614 | INFO | Eyes opened - counter reset
+2026-03-02 02:33:52,077 | INFO | DETECTION | Frame:150 | EAR:0.3994 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:53,069 | INFO | DETECTION | Frame:180 | EAR:0.3816 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:53,801 | INFO | Eyes opened - counter reset
+2026-03-02 02:33:54,077 | INFO | Eyes opened - counter reset
+2026-03-02 02:33:54,078 | INFO | DETECTION | Frame:210 | EAR:0.233 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:55,066 | INFO | DETECTION | Frame:240 | EAR:0.329 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:56,078 | INFO | DETECTION | Frame:270 | EAR:0.3671 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:57,069 | INFO | DETECTION | Frame:300 | EAR:0.3645 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:58,076 | INFO | DETECTION | Frame:330 | EAR:0.3537 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:33:58,604 | INFO | Eyes opened - counter reset
+2026-03-02 02:33:59,068 | INFO | Eyes opened - counter reset
+2026-03-02 02:33:59,068 | INFO | DETECTION | Frame:360 | EAR:0.2298 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:00,060 | INFO | DETECTION | Frame:390 | EAR:0.3721 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:01,069 | INFO | DETECTION | Frame:420 | EAR:0.3366 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:01,998 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:02,062 | INFO | DETECTION | Frame:450 | EAR:0.2971 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:02,732 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:03,056 | INFO | DETECTION | Frame:480 | EAR:0.1864 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:03,132 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:03,966 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:04,061 | INFO | DETECTION | Frame:510 | EAR:0.3417 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:04,924 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:05,084 | INFO | DETECTION | Frame:540 | EAR:0.3101 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:06,058 | INFO | DETECTION | Frame:570 | EAR:0.311 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:07,085 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:07,085 | INFO | DETECTION | Frame:600 | EAR:0.2406 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:08,071 | INFO | DETECTION | Frame:630 | EAR:0.3566 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:09,081 | INFO | DETECTION | Frame:660 | EAR:0.3598 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:10,078 | INFO | DETECTION | Frame:690 | EAR:0.3171 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:10,606 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:11,084 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:11,084 | INFO | DETECTION | Frame:720 | EAR:0.2408 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:12,078 | INFO | DETECTION | Frame:750 | EAR:0.3248 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:12,779 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:13,068 | INFO | DETECTION | Frame:780 | EAR:0.2708 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:14,076 | INFO | DETECTION | Frame:810 | EAR:0.3383 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:14,733 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:15,068 | INFO | DETECTION | Frame:840 | EAR:0.3569 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:15,707 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:16,078 | INFO | DETECTION | Frame:870 | EAR:0.3707 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:17,069 | INFO | DETECTION | Frame:900 | EAR:0.3583 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:17,534 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:17,899 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:18,063 | INFO | DETECTION | Frame:930 | EAR:0.2578 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:18,459 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:19,066 | WARNING | Drowsy frames: 10
+2026-03-02 02:34:19,066 | INFO | DETECTION | Frame:960 | EAR:0.1363 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:19,500 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:20,059 | INFO | DETECTION | Frame:990 | EAR:0.3571 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:20,588 | WARNING | Drowsy frames: 10
+2026-03-02 02:34:21,071 | INFO | DETECTION | Frame:1020 | EAR:0.1554 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:22,060 | INFO | DETECTION | Frame:1050 | EAR:0.1978 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:22,220 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:22,558 | WARNING | Drowsy frames: 10
+2026-03-02 02:34:23,052 | INFO | DETECTION | Frame:1080 | EAR:0.1543 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:24,059 | INFO | DETECTION | Frame:1110 | EAR:0.1505 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:24,221 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1501, Frame=1115
+2026-03-02 02:34:24,960 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:24,960 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-02 02:34:25,084 | INFO | DETECTION | Frame:1140 | EAR:0.3036 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:26,060 | INFO | DETECTION | Frame:1170 | EAR:0.3035 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:26,284 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:27,082 | INFO | DETECTION | Frame:1200 | EAR:0.3042 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:27,724 | WARNING | Drowsy frames: 10
+2026-03-02 02:34:28,063 | INFO | DETECTION | Frame:1230 | EAR:0.1721 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:29,084 | INFO | DETECTION | Frame:1260 | EAR:0.1658 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:29,387 | INFO | EVENT | Type:DROWSY_DETECTED | Details:EAR=0.1703, Frame=1270
+2026-03-02 02:34:30,076 | INFO | DETECTION | Frame:1290 | EAR:0.1637 | Threshold:0.21 | Drowsy:True
+2026-03-02 02:34:30,218 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:30,218 | INFO | EVENT | Type:ALERT | Details:User became alert
+2026-03-02 02:34:31,084 | INFO | DETECTION | Frame:1320 | EAR:0.3288 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:31,306 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:31,708 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:31,981 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:32,078 | INFO | DETECTION | Frame:1350 | EAR:0.462 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:32,604 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:33,084 | INFO | DETECTION | Frame:1380 | EAR:0.367 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:34,081 | INFO | DETECTION | Frame:1410 | EAR:0.3178 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:34,266 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:34,909 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:35,068 | INFO | DETECTION | Frame:1440 | EAR:0.331 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:35,579 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:36,076 | INFO | DETECTION | Frame:1470 | EAR:0.3537 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:36,444 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:37,071 | INFO | DETECTION | Frame:1500 | EAR:0.3508 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:37,601 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:38,060 | INFO | DETECTION | Frame:1530 | EAR:0.3571 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:38,670 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:39,070 | INFO | DETECTION | Frame:1560 | EAR:0.214 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:39,164 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:40,058 | INFO | DETECTION | Frame:1590 | EAR:0.3704 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:41,071 | INFO | DETECTION | Frame:1620 | EAR:0.3498 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:41,901 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:42,061 | INFO | DETECTION | Frame:1650 | EAR:0.246 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:42,655 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:43,053 | INFO | DETECTION | Frame:1680 | EAR:0.3204 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:43,484 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:43,887 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:44,061 | INFO | DETECTION | Frame:1710 | EAR:0.3126 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:44,891 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:45,084 | INFO | DETECTION | Frame:1740 | EAR:0.3279 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:46,059 | INFO | DETECTION | Frame:1770 | EAR:0.1799 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:46,122 | INFO | Eyes opened - counter reset
+2026-03-02 02:34:47,084 | INFO | DETECTION | Frame:1800 | EAR:0.305 | Threshold:0.21 | Drowsy:False
+2026-03-02 02:34:53,411 | INFO | ================================================================================
+2026-03-02 02:34:53,411 | INFO | SESSION DETAILS
+2026-03-02 02:34:53,411 | INFO |   duration_seconds: 141.12
+2026-03-02 02:34:53,411 | INFO |   total_frames: 1808
+2026-03-02 02:34:53,411 | INFO |   mean_ear: 0.2994
+2026-03-02 02:34:53,411 | INFO |   std_ear: 0.0384
+2026-03-02 02:34:53,411 | INFO |   min_ear: 0.148
+2026-03-02 02:34:53,411 | INFO |   max_ear: 0.3436
+2026-03-02 02:34:53,411 | INFO | ================================================================================
